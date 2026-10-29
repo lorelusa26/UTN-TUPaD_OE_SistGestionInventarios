@@ -12,3 +12,15 @@ Documentación inicial en desarrollo.
 
 ## Integrante
 - Lorena Mercedes Orieta
+
+
+## Modelado de Procesos de Negocio (BPMN)
+
+En esta sección se documentará el proceso organizacional que será automatizado mediante el Sistema de Gestión de Inventarios.
+
+El modelado utilizará la notación BPMN para representar los participantes, roles, actividades y decisiones involucradas en el proceso.
+
+Se incluirán el flujo principal y las posibles excepciones relacionadas con la gestión de inventarios.
+
+Estado: pendiente de elaboración del diagrama.
+
